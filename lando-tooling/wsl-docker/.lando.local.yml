@@ -1,0 +1,7 @@
+services:
+  appserver:
+    config:
+      php: php.ini
+    overrides:
+      environment:
+        XDEBUG_CONFIG: discover_client_host=0 log=/tmp/xdebug.log remote_enable=true
