@@ -12,6 +12,9 @@ Included here are code examples and further documentation relating to my DrupalC
 - [Lando - WSL Docker](lando-tooling/wsl-docker/README.md)
 
   Example files for dealing with Xdebug in Docker on WSL with IDE on Windows.
+- [Lando - CLI](lando-tooling/cli/README.md)
+
+  Enable Xdebug for CLI commands in Lando.
 
 ## Links
 

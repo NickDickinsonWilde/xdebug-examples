@@ -1,0 +1,6 @@
+services:
+  appserver:
+    overrides:
+      environment:
+        PHP_IDE_CONFIG: serverName=localhost
+        XDEBUG_SESSION: PHPSTORM
