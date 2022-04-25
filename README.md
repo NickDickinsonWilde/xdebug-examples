@@ -16,6 +16,10 @@ Included here are code examples and further documentation relating to my DrupalC
 
   Enable Xdebug for CLI commands in Lando.
 
+- [Standalone PHP](php/README.md)
+  
+  PHP Config for standalone instances.
+
 ## Links
 
 - [Xdebug Install Docs](https://xdebug.org/docs/install)
